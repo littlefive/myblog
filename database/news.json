@@ -1,0 +1,10 @@
+{ 
+    "newsList":[
+        { 
+            "title":"观察者模式",
+            "content":"今天我写了一篇关于观察者模式的文章",
+            "img": "/img/call.jpg"
+
+        }
+        ]
+}
